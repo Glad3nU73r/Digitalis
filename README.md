@@ -3,6 +3,7 @@
 ^[https://sourcefoundry.org/]\
 ^[https://lwn.net/]\
 ^[https://www.gnu.org/]\
+^[https://sourcefoundry.org/hack/]\
 ____________________
 echo 'Hack the Planet!'
 --------------------
